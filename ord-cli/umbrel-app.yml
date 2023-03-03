@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: ord-cli
+name: Ord CLI
+tagline: Run Ord on Umbrel
+icon: https://svgur.com/i/mvA.svg
+category: Development
+version: "1.0.0"
+port: 4000
+description: Run Ord on Umbrel
+developer: Andrew Weber
+website: github.com/andrew-weber
+submitter: Andrew Weber
+submission: https://github.com/andrew-weber/umbrel-ord-cli
+repo: https://github.com/andrew-weber/umbrel-ord-cli
+support: https://github.com/andrew-weber/umbrel-ord-cli/issues
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  1.0.0 Initial Commit
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
